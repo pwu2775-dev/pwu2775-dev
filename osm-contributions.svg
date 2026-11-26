@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="OpenStreetMap contribution calendar">
 <rect width="900" height="180" rx="10" fill="#ffffff"/>
-<text x="20" y="29" fill="#1f2328" font-family="Arial,sans-serif" font-size="17">10,528 OpenStreetMap contributions in the last year</text>
+<text x="20" y="29" fill="#1f2328" font-family="Arial,sans-serif" font-size="17">10,619 OpenStreetMap contributions in the last year</text>
 <text x="42" y="54" fill="#59636e" font-family="Arial,sans-serif" font-size="10">Nov</text>
-<rect x="42" y="109" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-26: 0 contributions</title></rect>
 <rect x="42" y="124" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-27: 0 contributions</title></rect>
 <rect x="42" y="139" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-28: 0 contributions</title></rect>
 <rect x="42" y="154" width="12" height="12" rx="2" fill="#ebedf0"><title>2025-11-29: 0 contributions</title></rect>
@@ -378,7 +377,8 @@
 <rect x="874" y="64" width="12" height="12" rx="2" fill="#40c463"><title>2026-11-22: 57 contributions</title></rect>
 <rect x="874" y="79" width="12" height="12" rx="2" fill="#9be9a8"><title>2026-11-23: 2 contributions</title></rect>
 <rect x="874" y="94" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-11-24: 0 contributions</title></rect>
-<rect x="874" y="109" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-11-25: 0 contributions</title></rect>
+<rect x="874" y="109" width="12" height="12" rx="2" fill="#40c463"><title>2026-11-25: 91 contributions</title></rect>
+<rect x="874" y="124" width="12" height="12" rx="2" fill="#ebedf0"><title>2026-11-26: 0 contributions</title></rect>
 <text x="10" y="88" fill="#59636e" font-family="Arial,sans-serif" font-size="10">Mon</text>
 <text x="10" y="118" fill="#59636e" font-family="Arial,sans-serif" font-size="10">Wed</text>
 <text x="10" y="148" fill="#59636e" font-family="Arial,sans-serif" font-size="10">Fri</text>
